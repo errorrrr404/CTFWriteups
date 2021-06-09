@@ -66,3 +66,5 @@ After doing all that, just follow the following steps:
 ![23](https://user-images.githubusercontent.com/83836972/121354992-0ea08e00-c94d-11eb-9508-b6ea4477e7e6.PNG)
 
 And there is the flag!
+
+### Also don't forget to turn off the intercept from the same place you turned it on and the burp by just going back to the foxy proxy and selecting turn off. 
