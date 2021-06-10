@@ -16,7 +16,7 @@ If you've gone through the dossier carefully you can easily answer this question
 
 ***wfuzz -c -z file,big.txt http://shibes.xyz/api.php?breed=FUZZ***
 
-Now we try to find the ***API with gobuster***. 
+Now we'll try to find the ***API with gobuster***. 
 
 As suggested, we use ***-w*** to ***specify the dirbuster big word list***. We add the ***.php extension with -x***. This is not needed to solve the challenge, it just put it in there because most forum software is written in php and so have been the previous challenges. By the code is:
 
